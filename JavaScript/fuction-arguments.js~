@@ -1,0 +1,9 @@
+function math(first,second,third)
+{
+if(typeOf first=== 'Number'&& typeOf second==='Number'&& typeOf third==='Number')
+{
+return first+second*third;
+}
+else
+return 'arguments are not valid';
+}
