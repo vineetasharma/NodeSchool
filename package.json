@@ -1,0 +1,22 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "NodeSchool Javascript Module Solutions",
+  "main": "testServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineetasharma/NodeSchool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineetasharma/NodeSchool/issues"
+  },
+  "homepage": "https://github.com/vineetasharma/NodeSchool#readme",
+  "dependencies": {
+    "soundcloud-node-api": "0.0.3"
+  }
+}

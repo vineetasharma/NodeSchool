@@ -1,0 +1,22 @@
+{
+  "name": "learnyoureact",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "body-parser": "^1.15.2",
+    "browserify": "^13.1.1",
+    "express": "^4.14.0",
+    "express-react-views": "^0.9.0",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
+  }
+}
